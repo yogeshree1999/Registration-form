@@ -1,0 +1,2 @@
+# Registration-form
+basic registration form required for basic purpose in any of era. Here the geometry is used for creating a page on tkinter window, entry is used for adding user given input values,label is used to specify what input to be taken from user,buttonis used for giving response to input values.checkbutton is used to select any of the one given option,drop down is used to choose any of the option listed.
